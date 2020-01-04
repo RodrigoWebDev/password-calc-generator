@@ -2,6 +2,10 @@ body{
     padding: 20px 16px;
 }
 
+h1{
+    text-align: center;
+}
+
 h2{
     display:none;
     text-align: center;

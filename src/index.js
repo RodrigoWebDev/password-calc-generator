@@ -6,7 +6,6 @@ function calcs(n) {
     vals = [];
 
     for (var i = 0; i < n; i++) {
-        var len = 5;
         var arr = [];
         for (var j = 0; j < Math.floor(Math.random() * 20); j++) {
             arr.push(Math.floor(Math.random() * 10));
