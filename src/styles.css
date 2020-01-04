@@ -1,0 +1,17 @@
+body{
+    padding: 20px 16px;
+}
+
+h2{
+    display:none;
+    text-align: center;
+}
+
+.password {
+    text-align: center;
+    font-size: 44px;
+}
+
+.results div strong span{
+    color:#f9c412;
+}
